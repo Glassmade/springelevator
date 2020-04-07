@@ -1,0 +1,5 @@
+{
+	"maxElevators": 4,
+	"maxCapacity": 10,
+	"maxFloors": 20
+}

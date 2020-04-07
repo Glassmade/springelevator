@@ -1,0 +1,2 @@
+INSERT INTO JOURNEYS (journeyId,timeElapsed,maxUsers,originFloor,destinationFloor) VALUES (JOURNEY_SEQ.nextval,4,1,0,5);
+INSERT INTO JOURNEYS (journeyId,timeElapsed,maxUsers,originFloor,destinationFloor) VALUES (JOURNEY_SEQ.nextval,6,1,7,0);
